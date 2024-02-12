@@ -64,3 +64,4 @@ var pivotIndex = function(nums) {
 
 let nums = [1,2,3]
 console.log(pivotIndex(nums));
+// 1
