@@ -53,3 +53,4 @@ const longestSubarray = function(nums) {
 let nums = [1,1,0,1]
 console.log(longestSubarray(nums));
 // 
+// 
